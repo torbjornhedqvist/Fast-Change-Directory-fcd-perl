@@ -18,10 +18,9 @@ use Term::Complete;
 use File::Basename;
 
 # Version
-my $versionShort = "1.7.1";
+my $versionShort = "1.7.2";
 my $version = "fcd.pl Version $versionShort\n" .
-    "Author: Torbjorn Hedqvist, torbjorn.hedqvist.c\@gmail.com\n" .
-    "This is totally free software; There is NO warranty;\n\n";
+    "Author: Torbjorn Hedqvist\n\n";
 
 # Some colors
 my $reset     = "\033[0m";
