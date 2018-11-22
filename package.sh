@@ -8,7 +8,7 @@
 # Package all required files into a tarball and include the current
 # version number in the name.
 echo "Making a tarball out of the following files"
-tar -cvf fcd-`perl ./fcd.pl -v`.tar fcd.pl fcd.csh fcd.sh changelog.txt README.md LICENSE
+tar -zcvf fcd-`perl ./fcd.pl -v`.tar.gz fcd.pl fcd.csh fcd.sh install.sh package.sh README.md LICENSE
 echo "Finished, destination tar file contains..."
-tar -tvf fcd-`perl ./fcd.pl -v`.tar
+tar -tvf fcd-`perl ./fcd.pl -v`.tar.gz
 
