@@ -3,7 +3,7 @@
 
 ## Background:  
 Tired of adding aliases for frequently visited directories?  
-Tired of searching through your aliases or other configuration file to find  
+Tired of searching through your aliases or other configuration file to find 
 out how you named that smart shortcut?  
 
 **fcd** is a solution for that. The benefit of **fcd** is to replace tedious
@@ -20,7 +20,7 @@ specific alias the script supports a listing function of all created aliases.
 
 ## Installation / setup:
 
-You have two options:   
+You have two options:  
 
 *Option 1:* Run the provided `install.sh` script which will create needed bin
 directory in the users home if it doesn't exists, copying all needed files to
