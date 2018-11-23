@@ -1,4 +1,4 @@
-# fcd
+# fcd [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 (F)ast (C)hange (D)irectory for bash shells avoiding a lot of aliases.
 
 ## Background:  
@@ -78,6 +78,10 @@ alias takes options (-p or -a) before the name and -- always seems to be
 evaluated as an invalid -- option.
 
 ### Ready to peek and poke around.
+
+A simple screenshot:  
+![](./screenshot.png)
+
 *Examples (bash style):*  
 ```
 $ ++           To add current dir to my list without any shortcut tag.
