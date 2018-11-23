@@ -77,7 +77,7 @@ Haven't figured out how to make -- a valid name in bash since the command
 alias takes options (-p or -a) before the name and -- always seems to be 
 evaluated as an invalid -- option.
 
-### Ready to peek and poke around.
+### Ready to peek and poke around
 
 A simple screenshot:  
 ![](./screenshot.png)
@@ -106,5 +106,9 @@ And you will be prompted to add this with:
 For more information type:  
 `g --help` or `g -h`
 
-Hope you will enjoy using **fcd** and it will save some precious time for you.
+Hope you will enjoy using **fcd** and it will save some precious time for you.  
 
+### Other projects at github I found addressing the same use case 
+
+https://github.com/Gyumeijie/dirx  
+https://github.com/inwtx/Linux-change-directory-script
