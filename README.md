@@ -1,7 +1,7 @@
 # fcd [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 (F)ast (C)hange (D)irectory for bash shells avoiding a lot of aliases.
 
-## Background:  
+## Summary  
 Tired of adding aliases for frequently visited directories?  
 Tired of searching through your aliases or other configuration file to find 
 out how you named that smart shortcut?  
@@ -18,16 +18,16 @@ extra commands after the change directory have taken place to be able to tailor
 the behavior. If you have forgotten the shortcut name you created for a
 specific alias the script supports a listing function of all created aliases.  
 
-## Installation / setup:
+## Installation and setup
 
 You have two options:  
 
-*Option 1:* Run the provided `install.sh` script which will create needed bin
+***Option 1:*** Run the provided `install.sh` script which will create needed bin
 directory in the users home if it doesn't exists, copying all needed files to
 the bin, updating the `$PATH` environment if needed and finally creating some
 supporting shortcut aliases. Logout & login and you are ready to go.  
 
-*Option 2:* Do it manually and this is just a proposal of setup and you can
+***Option 2:*** Do it manually and this is just a proposal of setup and you can
 of course tailor it according to your own preferences.  
 
 1) If you don't have a bin directory in your `$HOME` directory, create one:  
