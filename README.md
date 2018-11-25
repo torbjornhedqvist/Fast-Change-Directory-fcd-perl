@@ -110,5 +110,5 @@ Hope you will enjoy using **fcd** and it will save some precious time for you.
 
 ### Other projects at github I found addressing the same use case 
 
-https://github.com/Gyumeijie/dirx  
-https://github.com/inwtx/Linux-change-directory-script
+<https://github.com/Gyumeijie/dirx>  
+<https://github.com/inwtx/Linux-change-directory-script>
